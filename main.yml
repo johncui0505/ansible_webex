@@ -42,6 +42,6 @@
       cisco_spark:
         recipient_type: roomId
         recipient_id:   "{{ roomID }}"
-        msg_type:   markdown
+        message_type:   markdown
         personal_token: "{{ bot_token }}"
-        msg:        "{{ faults_report.msg }}"
+        message:        "{{ faults_report.msg }}"
