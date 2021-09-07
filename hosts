@@ -2,12 +2,12 @@
 apic
 
 [aci:vars]
-aci_host=apic1.dcloud.cisco.com
+aci_host=198.18.133.200
 aci_port=443
 aci_user=admin
 aci_password=C1sco12345
 aci_valid_cert=false
-aci_use_ssl=true
+aci_use_ssl=false
 
 roomID=CHANGE_ME
 bot_token=CHANGE_ME
